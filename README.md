@@ -5,4 +5,5 @@
 - **спортсмен, марафонец**
 - *люблю петь, пою для души*
   Фото
-  ![Screenshot (https://github.com/artemka87/Creta/blob/main/image-2024-03-06%2019_34_08.jpg)
+  ![Screenshot]
+  (https://github.com/artemka87/Creta/blob/main/image-2024-03-06%2019_34_08.jpg)
